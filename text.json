@@ -57,6 +57,7 @@
                                                 "autoSelect": null,
                                                 "autoHide": null,
                                                 "text":[],
+                                                "elementType":10240,
                                                 "type":"AND",
                                                 "children":{
                                                     "Not specified":{
